@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+# Experimental COVID-19 Model #1: An Ensemble SEIR Model with Behavioral Modifiers
+
+![Example 1000 member ensemble model for infectious persons per 10,000](figures/all_models_concurrent_infectious_per_10_000.png)
 
 You can use the [editor on GitHub](https://github.com/mwmckenzie/Experimental-COVID-19-Models/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
