@@ -8,7 +8,7 @@ This project includes a side project that allows interactive viewing of model re
 [Interactive Ensemble Results Project](https://mwmckenzie.github.io/COVID_19_Ensemble_Results_Viewer/)
 
 An experimental interactive application can be tested at the following website:
-[Interactive Charting Example](https://mybinder.org/v2/gh/mwmckenzie/COVID_19_Ensemble_Results_Viewer/tree/master/master?filepath=index.ipynb)
+[Interactive Charting Example](https://mybinder.org/v2/gh/mwmckenzie/COVID_19_Ensemble_Results_Viewer/master?filepath=index.ipynb)
 
 
 You can use the [editor on GitHub](https://github.com/mwmckenzie/Experimental-COVID-19-Models/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
