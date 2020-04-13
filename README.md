@@ -5,7 +5,7 @@
 
 
 This project includes a side project that allows interactive viewing of model results:
-[https://mwmckenzie.github.io/COVID_19_Ensemble_Results_Viewer/]
+[Interactive Ensemble Results Project](https://mwmckenzie.github.io/COVID_19_Ensemble_Results_Viewer/)
 
 An experimental interactive application can be tested at the following website:
 []
