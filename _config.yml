@@ -44,7 +44,7 @@ author:
 defaults:
   # _posts
   - scope:
-      path: ""
+      path: "_models"
       type: models
     values:
       layout: single
