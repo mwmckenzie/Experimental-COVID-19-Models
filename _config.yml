@@ -37,7 +37,8 @@ author:
   bio: "Jump straight to any project or into various aspects of each"
   links:
     - label: "Ensemble Probabilistic Model"
-    - url: 
+    - icon: "fas fa-fw fa-link"
+    - url: "https://"
 
 defaults:
   # _posts
