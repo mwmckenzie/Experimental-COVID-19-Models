@@ -1,7 +1,7 @@
 # Experimental COVID-19 Model #1: An Ensemble SEIR Model with Behavioral Modifiers
 
 **An example chart displaying the results from an ensemble of 1000 SEIR models:**
-![Example 1000 member ensemble model for infectious persons per 10,000](figures/all_models_concurrent_infectious_per_10_000.png)
+![Example 1000 member ensemble model for infectious persons per 10,000](figures/all_models_concurrent_infectious_per_10_000_front_page.png)
 
 
 This project includes a side project that allows interactive viewing of model results:
