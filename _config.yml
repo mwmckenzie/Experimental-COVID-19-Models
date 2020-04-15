@@ -1,7 +1,19 @@
-theme: "minimal-mistakes-jekyll"'
+
+# Build settings
+markdown: kramdown
 remote_theme: "mmistakes/minimal-mistakes@4.19.1"
 
-plugins: jekyll-include-cache
+minimal_mistakes_skin: "air" # "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
-minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-
+include:
+  - _pages
+  
+  
+  # Plugins (previously gems:)
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
