@@ -17,3 +17,11 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  
+  
+  author:
+    name: "Projects"
+    bio: "Jump straight to any project or into various aspects of each"
+    links:
+      - label: "Ensemble Probabilistic Model"
+      - url: 
