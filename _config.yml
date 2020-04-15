@@ -34,11 +34,12 @@ plugins:
   
 author:
   name: "Projects"
+  avatar:
   bio: "Jump straight to any project or into various aspects of each"
   links:
     - label: "Ensemble Probabilistic Model"
     - icon: "fas fa-fw fa-link"
-    - url: "https://"
+    - url: "https://github.com/mwmckenzie/Experimental-COVID-19-Models/"
 
 defaults:
   # _posts
