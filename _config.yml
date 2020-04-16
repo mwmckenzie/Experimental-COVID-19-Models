@@ -48,15 +48,6 @@ plugins:
   - jekyll-include-cache
   
   
-author:
-  name: "Projects"
-  avatar:
-  bio: "Jump straight to any project or into various aspects of each"
-  links:
-    - label: "Ensemble Probabilistic Model"
-    - icon: "fas fa-fw fa-link"
-    - url: "https://github.com/mwmckenzie/Experimental-COVID-19-Models/"
-
 defaults:
   # _posts
   - scope:
@@ -76,10 +67,3 @@ defaults:
     values:
       layout: single
       author_profile: true
-
-category_archive:
-  type: liquid
-  path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/
