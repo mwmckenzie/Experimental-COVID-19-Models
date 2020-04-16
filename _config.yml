@@ -6,12 +6,12 @@
 title: Experimental COVID-19 Propagation Models
 email:
 description:
-minimal_mistakes_skin: "air" # "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+color_scheme: "light"
 search: true
 
 # Build settings
 markdown: kramdown
-remote_theme: "mmistakes/minimal-mistakes@4.19.1"
+remote_theme: pmarsceill/just-the-docs
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
