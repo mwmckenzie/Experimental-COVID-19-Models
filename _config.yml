@@ -5,9 +5,19 @@
 # in the templates via {{ site.myvariable }}.
 title: Experimental COVID-19 Propagation Models
 email:
-description:
-color_scheme: "light"
-search: true
+description: Exploring Various Probabilistic Propagation Modeling Approaches to Charting the 2020 COVID-19 Epidemic
+baseurl: "/Experimental-COVID-19-Models"
+url: "https://mwmckenzie.github.com"
+
+permalink: pretty
+exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"]
+
+color_scheme: nil
+search_enabled: true
+search_tokenizer_separator: /[\s/]+/
+
+footer_content: "Copyright &copy; 2020 Matthew McKenzie. Distributed by an <a href=\"https://github.com/mwmckenzie/Experimental-COVID-19-Models/tree/master/LICENSE.txt\">GNU3 license.</a>"
+
 
 # Build settings
 markdown: kramdown
