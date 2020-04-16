@@ -6,8 +6,8 @@
 title: Probabilistic COVID-19 Modeling
 email:
 description: Exploring Various Probabilistic Propagation Modeling Approaches to Charting the 2020 COVID-19 Epidemic
-baseurl: "https://mwmckenzie.github.com/Experimental-COVID-19-Models"
-url: "https://mwmckenzie.github.com"
+baseurl: "https://mwmckenzie.github.io/Experimental-COVID-19-Models"
+url: "https://mwmckenzie.github.io"
 
 permalink: pretty
 exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"]
